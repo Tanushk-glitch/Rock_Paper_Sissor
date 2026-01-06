@@ -1,26 +1,51 @@
-# python-mini-project
-📌 Project Description
-This mini-project is a console-based implementation of the classic Rock Paper Scissors game using Python.
-The objective of the project is to simulate a user vs computer game where the computer generates random choices and the winner is decided based on predefined game rules.
+# ✊✋✌️ Rock Paper Scissors Game
 
-🛠️ Tools & Technologies Used
-python
-Random module
+## 📌 Project Overview
+Rock Paper Scissors is a classic command-line game implemented using Python.  
+This project focuses on building game logic, handling user input, and implementing decision-making using conditional statements and loops.
 
-🎲 Key Features & Functionality
+---
 
-Takes user input for Rock, Paper, or Scissors
-Generates computer choice using the random module
-Applies game logic using conditional statements
-Displays round results (Win / Lose / Draw)
-Option to play multiple rounds (if implemented)
+## 🎯 Objectives
+- Implement the Rock Paper Scissors game logic
+- Practice conditional statements and loops
+- Handle user input validation
+- Simulate computer-generated moves
 
-🎯 Outcome
-The project successfully simulates a real-time game experience in the terminal. It helps understand how logic-based programs work and demonstrates effective use of control flow and randomness in Python.
-🚀 Learning Experience
+---
 
-Through this project, I strengthened my understanding of:
-Python basics and syntax
-Conditional statements and loops
-User input handling
-Using the random module
+## 🛠️ Technologies Used
+- Python
+
+---
+
+## 🎮 Game Rules
+- Rock beats Scissors  
+- Scissors beats Paper  
+- Paper beats Rock  
+
+---
+
+## ⚙️ Features
+- User vs Computer gameplay
+- Random computer choices
+- Input validation for incorrect entries
+- Clear win, lose, or draw results
+- Option to play multiple rounds
+
+---
+
+## 🧠 Concepts Used
+- Conditional statements
+- Loops
+- Functions
+- Random module
+- Input handling
+
+👨‍💻 Author
+
+Tanushk Baranwal
+Aspiring Software Developer<br>
+🔗 GitHub: https://github.com/Tanushk-glitch
+
+🔗 LinkedIn: https://www.linkedin.com/in/tanushk-baranwal-495923291/
